@@ -1,1 +1,1 @@
-This is a git directory
+This is a git directory, just edited it
